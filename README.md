@@ -9,6 +9,8 @@
 ██      ██ ██   ████ ██   ██ ██   ████  ██████ ███████     ██████ ██   ██ ███████  ███ ███  
                                                                            
 ```
+![crew_only-ce3e8e1afde0977caeaa861aab72f1cfee3c88a79127d6e2bea8d9b2066f5eb1](https://github.com/Kirouane-Ayoub/FinanceCrew/assets/99510125/e26b204a-b08c-4568-8570-d5ae746f5c25)
+
 
 FinanceCrew is a project built using CrewAI, designed to automate and orchestrate tasks related to financial analysis and data collection. This project leverages multiple agents with specific roles to fetch financial information, perform calculations, and gather relevant news from various sources.
 
