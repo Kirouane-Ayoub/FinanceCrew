@@ -2,12 +2,12 @@
 
 
 ```
-███████ ██ ███    ██  █████  ███    ██  ██████ ███████        ██████ ██████  ███████ ██     ██ 
-██      ██ ████   ██ ██   ██ ████   ██ ██      ██            ██      ██   ██ ██      ██     ██ 
-█████   ██ ██ ██  ██ ███████ ██ ██  ██ ██      █████   █████ ██      ██████  █████   ██  █  ██ 
-██      ██ ██  ██ ██ ██   ██ ██  ██ ██ ██      ██            ██      ██   ██ ██      ██ ███ ██ 
-██      ██ ██   ████ ██   ██ ██   ████  ██████ ███████        ██████ ██   ██ ███████  ███ ███  
-                                                                               
+███████ ██ ███    ██  █████  ███    ██  ██████ ███████     ██████ ██████  ███████ ██     ██ 
+██      ██ ████   ██ ██   ██ ████   ██ ██      ██         ██      ██   ██ ██      ██     ██ 
+█████   ██ ██ ██  ██ ███████ ██ ██  ██ ██      █████   ██ ██      ██████  █████   ██  █  ██ 
+██      ██ ██  ██ ██ ██   ██ ██  ██ ██ ██      ██         ██      ██   ██ ██      ██ ███ ██ 
+██      ██ ██   ████ ██   ██ ██   ████  ██████ ███████     ██████ ██   ██ ███████  ███ ███  
+                                                                           
 ```
 
 FinanceCrew is a project built using CrewAI, designed to automate and orchestrate tasks related to financial analysis and data collection. This project leverages multiple agents with specific roles to fetch financial information, perform calculations, and gather relevant news from various sources.
